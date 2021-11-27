@@ -1,4 +1,4 @@
-# My Vscode Setting!
+# My VSCode Setting!
 
 - VSCode Editer Settings.
 - VSCode Recommended Plugins.

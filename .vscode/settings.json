@@ -15,7 +15,6 @@
   "editor.formatOnSave": true,
   "workbench.iconTheme": "material-icon-theme",
   "workbench.editor.enablePreview": false,
-
   "workbench.editor.wrapTabs": true,
   "window.zoomLevel": 1
 }
